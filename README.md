@@ -4,8 +4,8 @@
 Welcome to my GitHub repository! I am Karan Gandhi, an experienced and innovative web developer with a strong track record in full-stack development. With expertise in Angular and a passion for building user-centric applications, I strive to drive technological innovation and ensure client success.
 
 # Experience
-## Codezen Technologies, Mumbai, India
-### Biomech Healthcare (June 2018 - October 2020, June 2021 - April 2023)
+## Codezen Technologies, Mumbai, India                               (June 2018 - October 2020, June 2021 - April 2023)
+### Biomech Healthcare
 Developed a comprehensive web application using Angular 14 to track products, stocks, invoices, sales, payments, orders, and reports.
 Implemented role-based web panels for Stockists, Business Managers & Head Office using Ngx Permissions.
 Integrated dynamic bar charts with Chart.js to analyze Target Vs Achievements, enhancing sales strategies.
