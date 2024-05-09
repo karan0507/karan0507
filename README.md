@@ -20,7 +20,7 @@ Developed a comprehensive Loan Management System, facilitating efficient onboard
 Integrated advanced delivery tracking features using Angular Google Maps for enhanced operational transparency.
 Utilized Chart.js to create interactive dashboards presenting dynamic, real-time data for informed decision-making.
 
-## TechMave Solutions – IT Services, Pune, India (January 2020 – June 2021)
+## TechMave Solutions – IT Services, Pune, India                     (January 2020 – June 2021)
 ### Garja Maharashtra News Application
 Developed a full-stack web application enabling users to browse through various news posts with an integrated admin panel for news management.
 Implemented data retrieval from the database using endpoint connection service files for seamless performance.
@@ -33,13 +33,9 @@ Enhanced security with interceptors for HttpClient services and token management
 ### Kanaya Technologies:
 Designed and developed a website for an IT Services and Consultancy company based in Kitchener, ON. Used MailChamp for Contact Us backend email. 
 
-### Logistics Management System (December 2020 – March 2021)
+### Logistics Management System                                       (December 2020 – March 2021)
 Designed Admin and Trucking web and mobile applications using Figma for a logistics company.
 Led end-to-end system design for seamless integration across platforms, aligning with client needs and objectives.
-
-
-# 💫 About Me:
-💻♨️ I’m currently working on project to provide solutions to local vendors. Conestoga College, Waterloo ON - Student 2023-2024<br>🤝 I’m looking for help with backend solutions<br>🌱 I’m currently learning ReactJS<br>💬 Worked in a startup for building web applications using<br>Angular 14+, ChartJs, Google Maps, CRUD APIs, PostMan,<br>Slack, JIRA tools for building high-tech projects in healthcare, <br>FinTech, Loan Management System<br>⚡ Fun fact is that I create solutions for my own problems
 
 
 ## 🌐 Socials:
