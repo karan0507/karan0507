@@ -1,4 +1,4 @@
-<h3>Karan Gandhi - Web Developer</h3>h3
+#Karan Gandhi - Web Developer
 
 
 # 💫 About Me:
