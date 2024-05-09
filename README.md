@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-💻♨️ I’m currently working on project to provide solutions<br>to local vendors.<br>Conestoga College, Waterloo ON - Student 2023-2024<br>🤝 I’m looking for help with backend solutions<br>🌱 I’m currently learning ReactJS<br>💬 Worked in a startup for building web applications using<br>Angular 14+, ChartJs, Google Maps, CRUD APIs, PostMan,<br>Slack, JIRA tools for building high-tech projects in healthcare, <br>FinTech, Loan Management System<br>⚡ Fun fact is that I create solutions for my own problems
+💻♨️ I’m currently working on project to provide solutions<br>to local vendors.Conestoga College, Waterloo ON - Student 2023-2024<br>🤝 I’m looking for help with backend solutions<br>🌱 I’m currently learning ReactJS<br>💬 Worked in a startup for building web applications using<br>Angular 14+, ChartJs, Google Maps, CRUD APIs, PostMan,<br>Slack, JIRA tools for building high-tech projects in healthcare, <br>FinTech, Loan Management System<br>⚡ Fun fact is that I create solutions for my own problems
 
 
 ## 🌐 Socials:
