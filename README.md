@@ -1,5 +1,42 @@
 # Karan Gandhi - Web Developer
 
+# Overview:
+Welcome to my GitHub repository! I am Karan Gandhi, an experienced and innovative web developer with a strong track record in full-stack development. With expertise in Angular and a passion for building user-centric applications, I strive to drive technological innovation and ensure client success.
+
+# Experience
+## Codezen Technologies, Mumbai, India
+### Biomech Healthcare (June 2018 - October 2020, June 2021 - April 2023)
+Developed a comprehensive web application using Angular 14 to track products, stocks, invoices, sales, payments, orders, and reports.
+Implemented role-based web panels for Stockists, Business Managers & Head Office using Ngx Permissions.
+Integrated dynamic bar charts with Chart.js to analyze Target Vs Achievements, enhancing sales strategies.
+Designed and developed Schemes and incentive modules using Rxjs Subjects to improve stockist engagement and loyalty.
+### FatakPay
+Spearheaded the implementation of a fintech web-based application for Admin and Corporate panels using Angular 14.
+Integrated CRUD APIs for customer onboarding with manual document approval stages, ensuring data accuracy.
+Managed loan and line approvals within the loan management system, overseeing dynamic applications and updates.
+### KVIX
+Led a team in creating a responsive web application using Angular 11 and Postman for streamlining loan management processes for jewelry vendors.
+Developed a comprehensive Loan Management System, facilitating efficient onboarding and data management.
+Integrated advanced delivery tracking features using Angular Google Maps for enhanced operational transparency.
+Utilized Chart.js to create interactive dashboards presenting dynamic, real-time data for informed decision-making.
+
+## TechMave Solutions – IT Services, Pune, India (January 2020 – June 2021)
+### Garja Maharashtra News Application
+Developed a full-stack web application enabling users to browse through various news posts with an integrated admin panel for news management.
+Implemented data retrieval from the database using endpoint connection service files for seamless performance.
+### Electrocloud - Ecommerce Website for Transformers
+Created an e-commerce web app with Angular 8, Bootstrap, and APIs, featuring intuitive product browsing and quotation modules.
+Developed admin and merchant panels enabling efficient management and incorporating CRUD operations for product and sales management.
+Enhanced security with interceptors for HttpClient services and token management.
+
+# Freelancing Projects:
+### Kanaya Technologies:
+Designed and developed a website for an IT Services and Consultancy company based in Kitchener, ON. Used MailChamp for Contact Us backend email. 
+
+### Logistics Management System (December 2020 – March 2021)
+Designed Admin and Trucking web and mobile applications using Figma for a logistics company.
+Led end-to-end system design for seamless integration across platforms, aligning with client needs and objectives.
+
 
 # 💫 About Me:
 💻♨️ I’m currently working on project to provide solutions to local vendors. Conestoga College, Waterloo ON - Student 2023-2024<br>🤝 I’m looking for help with backend solutions<br>🌱 I’m currently learning ReactJS<br>💬 Worked in a startup for building web applications using<br>Angular 14+, ChartJs, Google Maps, CRUD APIs, PostMan,<br>Slack, JIRA tools for building high-tech projects in healthcare, <br>FinTech, Loan Management System<br>⚡ Fun fact is that I create solutions for my own problems
